@@ -1,4 +1,4 @@
-[MasterHead|(https://1.p.blogspot.com/-7A4WynwLSM.))(https:/Madhavras)
+[MasterHead|(https://1.bp.blogspot.com/-7a4WynwlsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGBllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https:/Madhavras)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavras&label=Profile%20views&color=0e75b6&style=flat" alt="madhavras" /> </p>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif›
 
