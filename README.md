@@ -1,6 +1,6 @@
-[MasterHead|(https://1.bp.blogspot.com/-7a4WynwlsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGBllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https:/Madhavras)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavras&label=Profile%20views&color=0e75b6&style=flat" alt="madhavras" /> </p>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif›
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/mmadhavrastogi" target="blank"><img src="https://img.shields.io/twitter/follow/mmadhavrastogi?logo=twitter&style=for-the-badge" alt="mmadhavrastogi" /></a> </p>
 
