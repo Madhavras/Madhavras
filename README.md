@@ -1,6 +1,6 @@
 [MasterHead|(https://1.p.blogspot.com/-7A4WynwLSM.))(https:/Madhavras)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavras&label=Profile%20views&color=0e75b6&style=flat" alt="madhavras" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer-gif"›
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif›
 
 <p align="left"> <a href="https://twitter.com/mmadhavrastogi" target="blank"><img src="https://img.shields.io/twitter/follow/mmadhavrastogi?logo=twitter&style=for-the-badge" alt="mmadhavrastogi" /></a> </p>
 
