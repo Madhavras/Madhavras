@@ -1,8 +1,6 @@
-[L[MasterHead](https://1.bp.blogspot.com/-7A4wynwLsMw/XbBpCXG8fHI/AAAAAAAAM4/u0a1bpLskYgrwGb]lhSu2SDj_Mig8SXJQCLBGAsYHQ/s1600/2000_600px-gif)](https://Madhavras)
-<h1 align="center">Hi 👋, I'm MADHAV RASTOGI</h1>
-<h3 align="center">A passionate frontend ui/ux from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SY448ka94rAGak8ZfQ/giphy.gif?cid=790b7611qec3h5nj6irs7frn83mij7g4aarkte6gi3p8xgne&ep=v1_gifs_search&rid=giphy.gif&ct=g
+[MasterHead|(https://1.p.blogspot.com/-7A4WynwLSM.))(https:/Madhavras)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavras&label=Profile%20views&color=0e75b6&style=flat" alt="madhavras" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer-gif"›
 
 <p align="left"> <a href="https://twitter.com/mmadhavrastogi" target="blank"><img src="https://img.shields.io/twitter/follow/mmadhavrastogi?logo=twitter&style=for-the-badge" alt="mmadhavrastogi" /></a> </p>
 
@@ -18,6 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/mmadhavrastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmadhavrastogi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhav-rastogi-120003232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-rastogi-120003232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/themadhav._?igsh=mxhnmznxoxh2djr4ea==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/themadhav._?igsh=mxhnmznxoxh2djr4ea==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@claninsider1523?si=-jvin-har-etffxj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@claninsider1523?si=-jvin-har-etffxj" height="30" width="40" /></a>
 <a href="https://discord.gg/The.m.a.d.h.a.v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="The.m.a.d.h.a.v_" height="30" width="40" /></a>
 </p>
 
@@ -27,19 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavras&show_icons=true&locale=en&layout=compact" alt="madhavras" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavras&" alt="madhavras" /></p>
-## Hi there 👋
-
-<!--
-**Madhavras/Madhavras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
